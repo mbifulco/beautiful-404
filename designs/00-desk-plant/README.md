@@ -1,5 +1,3 @@
-# minimal and beautiful
-
 ## Clean
 ![clean](./desk-plant-no-cussing.png)
 
